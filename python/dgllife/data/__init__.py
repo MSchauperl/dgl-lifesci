@@ -19,6 +19,7 @@ from .hiv import *
 from .bace import *
 from .bbbp import *
 from .toxcast import *
+from .cycpep import *
 from .sider import *
 from .clintox import *
 from .uspto import *
